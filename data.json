@@ -1,0 +1,56 @@
+{
+  "app_id": "aigen-1774162172830",
+  "document_version": 1,
+  "sections": {
+    "app_settings": {
+      "primary_color": {
+        "type": "color",
+        "label": "Primary Color",
+        "value": "#00b7af"
+      },
+      "secondary_color": {
+        "type": "color",
+        "label": "Secondary Color",
+        "value": "#6a7071"
+      },
+      "background_color": {
+        "type": "color",
+        "label": "Background Color",
+        "value": "#10181f"
+      },
+      "text_color": {
+        "type": "color",
+        "label": "Text Color",
+        "value": "#ffffff"
+      }
+    },
+    "storefront": {
+      "store_name": {
+        "type": "text",
+        "label": "App Name",
+        "value": "Hello Skoop"
+      },
+      "logo": {
+        "type": "file",
+        "label": "Logo",
+        "value": "assets/logo.png",
+        "meta": {
+          "accepted_formats": ["png", "jpg", "svg"],
+          "path": "assets/"
+        }
+      }
+    },
+    "content": {
+      "headline": {
+        "type": "text",
+        "label": "Headline",
+        "value": "Hello, World!"
+      },
+      "subtext": {
+        "type": "textarea",
+        "label": "Subtext",
+        "value": "Welcome to your first Skoop digital signage app. This content is powered by data.json."
+      }
+    }
+  }
+}
