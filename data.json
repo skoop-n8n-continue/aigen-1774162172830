@@ -6,17 +6,17 @@
       "primary_color": {
         "type": "color",
         "label": "Primary Color",
-        "value": "#d32f2f"
+        "value": "#00b7af"
       },
       "secondary_color": {
         "type": "color",
         "label": "Secondary Color",
-        "value": "#ffcdd2"
+        "value": "#6a7071"
       },
       "background_color": {
         "type": "color",
         "label": "Background Color",
-        "value": "#1a0a0a"
+        "value": "#10181f"
       },
       "text_color": {
         "type": "color",
@@ -33,7 +33,7 @@
       "logo": {
         "type": "file",
         "label": "Logo",
-        "value": "assets/logo_red.png",
+        "value": "assets/logo.png",
         "meta": {
           "accepted_formats": ["png", "jpg", "svg"],
           "path": "assets/"
